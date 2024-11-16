@@ -45,6 +45,8 @@ export const skills = [
   "Java",
   "Kotlin",
   "PHP",
+  "Swift",
+  "Laravel",
 ];
 
 export const testimonials = [
